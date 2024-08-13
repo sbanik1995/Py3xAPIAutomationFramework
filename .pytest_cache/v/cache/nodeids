@@ -1,0 +1,4 @@
+[
+  "tests/tests/crud/test_create_booking.py::TestCreateBooking::test_create_booking_negative",
+  "tests/tests/crud/test_create_booking.py::TestCreateBooking::test_create_booking_positive"
+]
